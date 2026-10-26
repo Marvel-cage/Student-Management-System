@@ -18,4 +18,4 @@
 
 ## ▶️ How to run
 ```bash
-python student_management.py
+python student_management_system.py
